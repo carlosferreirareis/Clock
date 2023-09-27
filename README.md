@@ -1,6 +1,6 @@
 # Relógio Digital em Python com Tkinter
 
-This is a Python program that creates a digital clock using the Tkinter and the datetime libraries to get the current time and date.
+This is a Python program that creates a digital clock using the Tkinter and the datetime libraries to get the current time and date.|
 *Este é um programa em Python que cria um relógio digital usando as biblioteca Tkinter e datetime para obter a hora e a data atual.*
 
 ## Pré-requisitos
