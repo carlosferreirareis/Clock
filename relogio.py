@@ -45,11 +45,13 @@ def relogio():
     l1.after(180, relogio)
     l2.config(text = dia_semana + ", " + str(dia) + "/" + str(mes) + "/" + str(ano))
 
+# cria os labels
 l1 = Label(janela, text = "", font=("Skyfont 80"), bg = fundo, fg=cor)
 l1.grid(row=0, column=0, sticky=NW, padx=5)
 
 l2 = Label(janela, text = "", font=("Skyfont 22"), bg = fundo, fg=cor)
 l2.grid(row=1, column=0, sticky=NW, padx=5)
 
+# chama a função relogio
 relogio()
-janela.mainloop() // loop infinito
+janela.mainloop() # mantém a janela aberta
