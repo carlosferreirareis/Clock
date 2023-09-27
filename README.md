@@ -1,12 +1,12 @@
 # Relógio Digital em Python com Tkinter
 
-This is a Python program that creates a digital clock using the Tkinter and the datetime libraries to get the current time and date.|
-*Este é um programa em Python que cria um relógio digital usando as biblioteca Tkinter e datetime para obter a hora e a data atual.*
+This is a Python program that creates a digital clock using the Tkinter and the datetime libraries to get the current time and date.
+>*Este é um programa em Python que cria um relógio digital usando as biblioteca Tkinter e datetime para obter a hora e a data atual.*
 
 ## Pré-requisitos
 
 It's necessary to have Python installed on your system. You also need to install the Pyglet library to use the custom font. You can install it using the following command:
-*É necessário Python instalado em seu sistema. Você também precisa instalar a biblioteca Pyglet para usar a fonte personalizada. Você pode instalá-la usando o seguinte comando:*
+>*É necessário Python instalado em seu sistema. Você também precisa instalar a biblioteca Pyglet para usar a fonte personalizada. Você pode instalá-la usando o seguinte comando:*
 
 ```bash
 pip install pyglet
